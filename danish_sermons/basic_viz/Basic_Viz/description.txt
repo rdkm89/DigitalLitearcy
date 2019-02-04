@@ -1,0 +1,33 @@
+Very brief description of NER visualisations
+
+Fig1: 	Bib-vs-NonBib.png
+
+	This shows the distribution of characters marked as non-biblical (‘N’) vs biblical characters.	 It clearly shows that there are many more biblical characters than non-biblical.
+
+Fig2:	GenderDistribution-NonBib.png
+
+This shows the distribution of male and female characters within the non-biblical entities. Again, it quite clearly shows that there are more male than female non-biblical characters.
+
+Fig3:	Category_Type1.png
+
+This shows the distribution of the different Type 1 tags within the non-biblical entities. We can see that a large percentage of the non-biblical characters are still related to ‘theology’ – followed characters that are ‘literary’, ‘legendary’, ‘political’, ‘fictional’, and so on,
+
+Fig4:	Type1_over_full_length.png
+
+This shows the distribution of Type 1, non-biblical entities over the full time-span of the dataset. This is a messy visualisation and shouldn’t be used for anything. However, I wanted to include it to show how it might be difficult to derive anything when plotting all entities over time. I think that we need to have a more fine-grained set of queries in order to make things clearer.
+
+Fig5:	Different_Entities_over_Years.png
+
+This shows the distribution of the four most common kinds of Type 1, non-biblical entities across the full time-span of the data. Again, this is over the full time-span of the data. Again, it’s too messy to use for anything – other than a crude summary.
+
+
+Fig6:	Type1-entity-per-month.png
+
+This makes things a little clearer, I think. In this visualisation, I have added up all instances per month in each year of the dataset. Across the dataset, we can now see a clearer trend. Mentions of Type 1, non-biblical entities clearly peaks in December, with a smaller peak in May, and with two “low points” in February and October.
+
+Fig7:	Multiple_ Entities_by_Months.png
+
+Here we see the top four non-biblical, Type 1 entities over time counted by their occurrence per month. I think that this starts to show some more interesting information. Different entities have quite clearly distinct distributions – although there are some general tendencies.
+
+
+	
