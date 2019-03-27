@@ -3,7 +3,7 @@ NER for sermons in content.dat
 
 This is spaghetti code used for generating the tables of NER data used in the project.
 It can defintely be optimised and cleaned up a good deal. I'd actually like to modularise
-the whole thing at some point. But it works for now.
+the whole thing at some point. But it works for now!
 
 
 """
